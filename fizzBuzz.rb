@@ -16,6 +16,6 @@ class Create
   end
 end
 
-object = Create.new()
-puts object.fizzBuzz(15)
+# object = Create.new()
+# puts object.fizzBuzz(15)
 
